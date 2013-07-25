@@ -1,0 +1,17 @@
+{
+	"name": "ShelterTech",
+	"resources": [
+		{
+			"name": "animals",
+			"title": "/transit",
+			"verbs": [
+				{
+					"type": "get",
+					"url": "/animals",
+					"description": "An actual animal in need of Adoption",
+					"render": "animals"
+				}
+				]
+		}
+		]
+}
